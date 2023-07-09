@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install tvuotila/libxmlsec1/<formula>`
+`brew install tvuotila/libxmlsec1/libxmlsec1@1.2.37`
 
-Or `brew tap tvuotila/libxmlsec1` and then `brew install <formula>`.
+Or `brew tap tvuotila/libxmlsec1` and then `brew install libxmlsec1@1.2.37`.
 
 ## Documentation
 
